@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+header .collapse {
+    flex-grow: 0;
+}
+
+header .menu {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 162px;
+}
+
+header .menu .box h1 {
+    color: #000000;
+    font-weight: 500;
+    font-size: 48px;
+}
+
+header .menu .box p {
+    font-weight: 400;
+    font-size: 16px;
+    color: #727272;
+    margin-top: 55px;
+}
+
+header .menu .box button {
+    margin-top: 55px;
+}
+
+section {
+    margin-top: 119px;
+}
+
+section h3 {
+    font-weight: 500;
+    font-size: 32px;
+    color: #000000;
+    text-align: center;
+}
+
+section .nur {
+    color: #727272;
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 50px;
+    text-align: center !important;
+}
+
+section .menu1 {
+    margin-top: 100px;
+    width: 100%;
+    background: #34547A;
+    display: flex;
+    justify-content: space-between;
+}
+
+section .box1 {
+    display: flex;
+}
+
+section.menu2 {
+    display: flex !important;
+}
+
+.wel1 {
+    width: 10px;
+    color: red;
+}
