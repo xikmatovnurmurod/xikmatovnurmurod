@@ -71,3 +71,7 @@ section.menu2 {
     width: 10px;
     color: red;
 }
+
+menu .container .row .col-lg-3i:hover {
+    opacity: 50%;
+}
